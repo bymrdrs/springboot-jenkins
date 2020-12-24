@@ -13,6 +13,7 @@ public class SpringbootJenkinsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootJenkinsApplication.class, args);
 		log.info("SpringbootJenkinsApplication Runing！！！");
+		log.info("Test Killing！！！");
 	}
 
 }
